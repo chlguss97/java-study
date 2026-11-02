@@ -14,7 +14,7 @@ public class Var7 {
         System.out.println(b);
         System.out.println(c);
         System.out.println(d);
-        System.out.println(e);
+        System.out.println(e); //테스트
 
     }
 }
