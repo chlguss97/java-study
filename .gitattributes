@@ -1,0 +1,10 @@
+# 저장소에는 항상 LF로 저장 (Windows/Mac 줄바꿈 차이로 인한 diff 방지)
+* text=auto
+
+*.java text diff=java
+*.xml  text
+*.iml  text
+*.md   text
+
+*.class binary
+*.jar   binary

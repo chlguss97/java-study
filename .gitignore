@@ -1,0 +1,8 @@
+### OS ###
+.DS_Store
+Thumbs.db
+desktop.ini
+
+### IntelliJ (개인 설정/빌드 결과) ###
+out/
+workspace.xml
